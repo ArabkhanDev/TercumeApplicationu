@@ -22,9 +22,13 @@ This project is a Spring Boot application that uses various Spring Boot starters
 ## Prerequisites
 
 - Java 17
+- Spring Boot
+- Spring Security
 - Docker
 - Docker Compose
 - Git
+- Liquibase
+- JUnit 5
 
 ## Building and Running the Application
 
@@ -34,3 +38,6 @@ To build the application, run:
 
 ```sh
 ./gradlew clean build
+
+```sh
+docker-compose up -d
