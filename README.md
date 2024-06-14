@@ -39,5 +39,5 @@ To build the application, run:
 ```sh
 ./gradlew clean build
 
-```sh
+Up MySQL with docker
 docker-compose up -d
