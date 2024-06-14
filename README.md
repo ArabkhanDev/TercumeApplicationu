@@ -1,4 +1,4 @@
-![library](https://github.com/ArabkhanDev/TercumeApplicationu/assets/114146863/297cfb0f-3ecc-4705-9eb8-7037ff6e301f)# Library
+# Library
 
 This Spring Boot application manages a library system with entities like books, authors, members, and borrowing records. It integrates Docker for containerization and deployment. Key features include CRUD operations via JPA, auto-configuration, and embedded servers. Use Gradle for building and Docker Compose for deploying the application.
 
