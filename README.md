@@ -39,9 +39,8 @@ To build the application, run:
 ```sh
 ./gradlew clean build
 
-Running the Application Locally
-To run the application locally, use:
-```sh
+docker-compose up -d
+
 ./gradlew bootRun
 
 
