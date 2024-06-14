@@ -39,5 +39,9 @@ To build the application, run:
 ```sh
 ./gradlew clean build
 
-Up MySQL with docker
-docker-compose up -d
+Running the Application Locally
+To run the application locally, use:
+```sh
+./gradlew bootRun
+
+
