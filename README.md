@@ -1,4 +1,4 @@
-# Project Name
+# Library
 
 A Spring Boot application with Docker integration.
 
