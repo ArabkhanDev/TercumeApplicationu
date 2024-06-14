@@ -11,12 +11,6 @@ This Spring Boot application manages a library system with entities like books, 
 - [Prerequisites](#prerequisites)
 - [Building and Running the Application](#building-and-running-the-application)
   - [Building the Application](#building-the-application)
-  - [Running the Application Locally](#running-the-application-locally)
-  - [Building and Pushing Docker Image](#building-and-pushing-docker-image)
-  - [Deploying with Docker Compose](#deploying-with-docker-compose)
-- [Dependencies](#dependencies)
-- [Configuration](#configuration)
-- [License](#license)
 
 ## Project Overview
 
