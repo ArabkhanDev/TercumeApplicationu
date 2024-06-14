@@ -1,6 +1,6 @@
 # Library
 
-A Spring Boot application with Docker integration.
+This Spring Boot application manages a library system with entities like books, authors, members, and borrowing records. It integrates Docker for containerization and deployment. Key features include CRUD operations via JPA, auto-configuration, and embedded servers. Use Gradle for building and Docker Compose for deploying the application.
 
 ## Table of Contents
 
